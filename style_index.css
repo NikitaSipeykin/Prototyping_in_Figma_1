@@ -1,0 +1,57 @@
+*{
+    margin: 0; 
+    padding: 0;
+ }
+
+.mane_zone{
+    background-image: url(images/index/background.png);
+}
+
+.container{
+    max-width: 375px;
+    margin: 0 auto;
+}
+
+.logo{
+    padding-top: 307px;
+    padding-left: 84px;
+}
+
+.Pawel{
+    padding-top: 298px;
+    padding-left: 16px;
+}
+
+.log_in_list{
+    margin-top: 20px;
+    margin-left: 16px;
+    margin-bottom: 33px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.log_in_elements{
+    padding: 16px 51px;
+    color: #000000;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: none;
+    background-color: #fff;
+    border: solid;
+    border-radius: 10px;
+    }
+
+    .register{
+        border-color: black;
+        margin-left: 9px; 
+        background-color: #000;
+        color: #fff
+    }
